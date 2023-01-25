@@ -10,7 +10,7 @@ region = "us-east-1"
 
 resource "aws_instance" "web" { 
 
-ami           = "ami-02dc8ad50da58fffd" 
+ami           = "ami-0bba69335379e17f8" 
 
 instance_type = "t3.micro" 
 
